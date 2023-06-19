@@ -1,0 +1,40 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+
+#result1{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    background: url("Sunset-somewhere-in-Iowa-By-Vath.-Sok-2.jpeg");
+    background-size:100%;
+}
+#result2{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    background: url("download.jpg");
+    background-size:100%;
+}
+
+#result3{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+    background: url("Landscape-Photography-steps.jpg");
+    background-size:100%;
+}
+
+

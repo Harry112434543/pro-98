@@ -4,8 +4,8 @@
 } 
 #camera
 {
-    width:500px;
-    height: 500px;
+    width: 350px;
+    height: 350px;
     border:1px solid rgb(0, 0, 0);
 }
 #logo_img
@@ -15,28 +15,28 @@
 }
 
 #result1{
-    width:360px;
+    width:450px;
     height: 250px;
     border:10px solid grey;
-    background: url("Sunset-somewhere-in-Iowa-By-Vath.-Sok-2.jpeg");
+   
     background-size:100%;
     box-shadow:0 6px 8px 0 rgba(2,2,2,0.2);
     
 }
 #result2{
-    width:360px;
+    width:450px;
     height: 250px;
     border:10px solid grey;
-    background: url("download.jpg");
+    
     background-size:100%;
     box-shadow:0 6px 8px 0 rgba(2,2,2,0.2);
 }
 
 #result3{
-    width:360px;
+    width:450px;
     height: 250px;
     border:10px solid grey;
-    background: url("Landscape-Photography-steps.jpg");
+    
     background-size:100%;
     box-shadow:0 6px 8px 0 rgba(2,2,2,0.2);
     
@@ -44,8 +44,16 @@
     
 }
 
-.result:hover{
-    border-radius:50%;
+#result1:hover{
+    border-radius:130px;
+}
+
+#result2:hover{
+    border-radius:130px;
+}
+
+#result3:hover{
+    border-radius:130px;
 }
 
 
